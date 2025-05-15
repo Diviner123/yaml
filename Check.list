@@ -5,8 +5,4 @@ DOMAIN-SUFFIX,derper.jweiquan.cn
 DOMAIN-SUFFIX,derper-hwcloud.zouying.work
 DOMAIN-SUFFIX,d9.manshi.info
 DOMAIN-SUFFIX,derp.ts.yukishizuku.top
-IP-CIDR,113.45.195.91/32,no-resolve
-IP-CIDR,47.106.234.14/32,no-resolve
-IP-CIDR,39.108.127.234/32,no-resolve
-IP-CIDR,47.106.144.143/32,no-resolve
-IP-CIDR,8.134.198.153/32,no-resolve
+IP-CIDR,8.134.198.153/32
